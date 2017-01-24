@@ -1,7 +1,8 @@
 # Web-Based-Speech-Recognition-Light-Controller-Using-Raspberry-Pi
 This is a simple web based IOT application that controls the led light from the voice command using Raspberry Pi.
 
-The equipments used are:
+The equipments used are
+
 1. Raspberry Pi
 2. Breadboard
 3. LED light
