@@ -11,6 +11,7 @@ The equipments used are
 
 To run the app, first you have to run python script lservice.py in your Raspberry Pi that connects to the webserver and can communicate through the web interface from another device such as mobile and laptop.
 
-In this simple app, there is a simple web interface that uses speech recognition or you can control the light from the button provided in the web interface. You can give a voice command like: 
-turn on the light to turn on the LED.
-turn off the ligt to turn off the LED.
+In this simple app, there is a simple web interface that uses speech recognition or you can control the light from the button provided in the web interface. You can give a voice command like 
+
+* turn on the light to turn on the LED.
+* turn off the ligt to turn off the LED.
