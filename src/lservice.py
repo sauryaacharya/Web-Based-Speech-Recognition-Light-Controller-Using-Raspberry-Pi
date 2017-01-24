@@ -8,6 +8,9 @@ GPIO.setup(12, GPIO.OUT)
 
 while True:
          try:
+                  '''
+                  Provide your own web address to read the file from your web server
+                  '''
             res = urllib2.urlopen("http://192.168.1.104/rpi/data.dat");
             lstatus = res.read()
          except urllib2.HTTPError, e:
