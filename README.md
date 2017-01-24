@@ -16,4 +16,4 @@ In this simple app, there is a simple web interface that uses speech recognition
 * turn on the light to turn on the LED.
 * turn off the ligt to turn off the LED.
 
-(Watch)[https://www.youtube.com/watch?v=c81D3z51o84] The Demo Video
+[Watch](https://www.youtube.com/watch?v=c81D3z51o84) The Demo Video
